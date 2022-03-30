@@ -1,0 +1,9 @@
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\bin\Debug\Invoice TotalForm.exe.config
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\bin\Debug\Invoice TotalForm.exe
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\bin\Debug\Invoice TotalForm.pdb
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice TotalForm.csprojAssemblyReference.cache
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice_TotalForm.Form1.resources
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice_TotalForm.Properties.Resources.resources
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice TotalForm.csproj.GenerateResource.cache
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice TotalForm.exe
+C:\Users\ishan\source\repos\CSharpEssentials\CSharpEssentials\bin\Debug\Invoice TotalForm\Invoice TotalForm\obj\Debug\Invoice TotalForm.pdb
